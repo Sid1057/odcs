@@ -11,7 +11,9 @@ bash install.sh
 Those scripts contain steps for Ubuntu 22.04 cold start setup
 
 1. Install reuqirement packages via apt
-Check scripts/apt.sh to modify it
+
+> Don't forget to check scripts/apt.sh to modify it`
+
 - python3-pip
 - python3-venv
 - nvidia-driver-535
