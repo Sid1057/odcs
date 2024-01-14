@@ -42,5 +42,7 @@ Till release:
 - [x] Add automatization bash scripts
 - [ ] Add tools install helper (like CVAT and TensorBoard)
 - [ ] Add training tips
+- [ ] Add docs and assets folder
+- [ ] Add gh-pages
 - [ ] Add runs output explanation
 - [ ] Test it again
