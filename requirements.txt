@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+scikit-build
+scikit-learn
+scipy
+torch
+opencv-python
